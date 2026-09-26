@@ -1,0 +1,10 @@
+{
+  "name": "PharmaBill - Medicine & Supplier Bill Scanner",
+  "description": "Scan and verify pharmaceutical bills with AI, owner and staff authentication by email and phone, searchable store database, custom password reset, real-time low-stock alerts, and customer POS dispensing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
